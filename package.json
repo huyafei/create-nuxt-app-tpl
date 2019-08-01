@@ -1,5 +1,5 @@
 {
-  "name": "czx-pc",
+  "name": "nuxt-app-tpl",
   "version": "1.0.0",
   "description": "My brilliant Nuxt.js project",
   "author": "胡亚飞",
@@ -15,7 +15,7 @@
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
     "@nuxtjs/style-resources": "^0.1.2",
-    "element-ui": "^2.4.11",
+    "element-ui": "^2.11.1",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {

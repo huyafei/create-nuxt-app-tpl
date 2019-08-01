@@ -1,4 +1,4 @@
-# czx-pc
+# nuxt-app-tpl
 
 > My brilliant Nuxt.js project
 
